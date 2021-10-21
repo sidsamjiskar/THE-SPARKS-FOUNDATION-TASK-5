@@ -1,0 +1,22 @@
+.heading{
+	text-align: center;
+    align-items: center;
+    padding-top: 15%;
+    padding-right: 50%;
+    font-size: 150%;
+}
+
+.form-body{
+	align-items: center;
+}
+.socialLogins .connectWithWrapper {
+    width: 100%;
+    padding-top: 8%;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+.background{
+    background-color: lightblue;
+    padding-top: 8rem;
+    padding-left: 32rem;
+}
